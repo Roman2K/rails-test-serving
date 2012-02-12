@@ -68,12 +68,10 @@ When running tests from the command line, you can bypass the server, forcing tes
 
 Code:
 
-*   [Roman Le Négrate](http://roman.flucti.com), a.k.a. Roman2K ([contact](mailto:roman.lenegrate@gmail.com))
-*   [Jack Chen](http://github.com/chendo), a.k.a. chendo
+*   Roman Le Négrate (Roman2K)
+*   [Jack Chen](http://github.com/chendo) (chendo)
 
 Feedback:
 
 *   Justin Ko
 *   [Dr Nic Williams](http://drnicwilliams.com)
-
-Released under the MIT license: see the `LICENSE` file.
