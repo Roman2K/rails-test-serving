@@ -6,7 +6,7 @@ Tired of waiting 10 seconds before your tests run? `RailsTestServing` can make t
 
 1.  Install the gem:
 
-        gem install Roman2K-rails-test-serving -s http://gems.github.com
+        gem install <gem> -s http://gems.github.com
 
 2.  Insert the following lines at the very top of `test/test_helper.rb`:
 
@@ -34,7 +34,7 @@ Tired of waiting 10 seconds before your tests run? `RailsTestServing` can make t
 
     As a consequence, they work in RubyMate too (⌘R in TextMate).
 
-6.  Have a lot a models and/or mixins? You can reduce reloading time to almost nothing by using `RailsTestServing` in combination with [RailsDevelopmentBoost](https://github.com/Roman2K/rails-dev-boost). Since was originally intended to speed up web-browsing in development mode, be sure to read the note in the `README` for how to enable it in test mode.
+6.  Have a lot a models and/or mixins? You can reduce reloading time to almost nothing by using `RailsTestServing` in combination with RailsDevelopmentBoost. Since was originally intended to speed up web-browsing in development mode, be sure to read the note in the `README` for how to enable it in test mode.
 
 **Note:** if the server is not started, tests fall back to running the usual way.
 
