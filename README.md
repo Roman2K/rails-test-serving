@@ -1,6 +1,6 @@
 # RailsTestServing
 
-Tired of waiting 10 seconds before your tests run? `RailsTestServing` can make them run almost instantly. This library is described more thoroughly in its [introduction  article](http://roman.flucti.com/a-test-server-for-rails-applications).
+Tired of waiting 10 seconds before your tests run? `RailsTestServing` can make them run almost instantly.
 
 ## Usage
 
@@ -20,7 +20,7 @@ Tired of waiting 10 seconds before your tests run? `RailsTestServing` can make t
 
     If you get loading errors during the next steps:
     * Move the `RUBYLIB` line from `~/.bash_profile` to `~/.bash_login` instead.
-    * If you are using TextMate, you may try to apply [this (hopefully temporary) fix](http://roman.flucti.com/textmate-fix-for-relative-require-test_helper).
+    * If you are using TextMate, you may try to apply <del>this (hopefully temporary) fix</del>.
 
 4.  Start the server:
 
@@ -68,7 +68,7 @@ When running tests from the command line, you can bypass the server, forcing tes
 
 Code:
 
-*   Roman Le Négrate (Roman2K)
+*   Roman Le Négrate
 *   [Jack Chen](http://github.com/chendo) (chendo)
 
 Feedback:
